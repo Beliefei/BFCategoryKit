@@ -1,0 +1,23 @@
+PODS:
+  - BFCategoryKit (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - BFCategoryKit (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  BFCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BFCategoryKit: f5b88eda8ba3ea23c6d3479cb39c72ddec1d8333
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: a9fa3ea6f7ba8be4b517f282e71fa4d518b73c2f
+
+COCOAPODS: 1.4.0
